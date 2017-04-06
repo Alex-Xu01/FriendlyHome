@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">有爱家园</string>
+
+    <string name="update_info">
+        最新版本：%1$s
+        \n\n更新内容：\n%2$s
+    </string>
+</resources>
